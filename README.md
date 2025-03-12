@@ -9,7 +9,7 @@ We use:
 - SQLite for in-memory database
 - Streamlit to wrap the logic in an interactive UI
 
-Demo Video
+[Demo Video](demo_vid.mp4)
 
 ## Installation and Setup
 
