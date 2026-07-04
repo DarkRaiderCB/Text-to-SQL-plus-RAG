@@ -9,8 +9,6 @@ We use:
 - SQLite for in-memory database
 - Streamlit to wrap the logic in an interactive UI
 
-[Demo Video](demo_vid.mp4)
-
 ## Installation and Setup
 
 ### 1. Install Dependencies
@@ -69,11 +67,3 @@ Run the application with:
 ```bash
 streamlit run ui.py
 ```
-
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
-## Contribution
-Contributions are welcome! Feel free to fork this repository and submit pull requests with your improvements.
